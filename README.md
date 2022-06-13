@@ -1,6 +1,6 @@
 <h1>Hey, nice to see you! <img src="https://i.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47xrjqewqiwwyxhyc08ybrkufcs6i32me7rlx6b3ye&rid=giphy.gif&ct=g" width="120"></h1>
 
-<p>I'm Jessica Lee, a fullstack developer and product lead, currently living in California, United States <img src="https://cdn-icons.flaticon.com/png/512/4628/premium/4628635.png?token=exp=1655149975~hmac=bc15cab11de53a8a38473c27c61ea508"  width="15" /> </p>
+<p>I'm Jessica Lee, a fullstack developer with years of prouduct management experiencce leading the development and growth of a web platform. I have proven ability to leverage engineering knowledge and business insights to build user-centered website design to scale. I'm passionate about tech. innovation and multiple-perspective problem solving. I'm currently living in California, United States <img src="https://cdn-icons.flaticon.com/png/512/4628/premium/4628635.png?token=exp=1655149975~hmac=bc15cab11de53a8a38473c27c61ea508"  width="15" /> </p>
 
 <p><a href="https://github.com/frandis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><a href="https://www.linkedin.com/in/jessica-lee-790a283b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>

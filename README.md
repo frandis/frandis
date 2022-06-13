@@ -1,4 +1,4 @@
-<h2>Hey, nice to see you! <img src="https://i.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47xrjqewqiwwyxhyc08ybrkufcs6i32me7rlx6b3ye&rid=giphy.gif&ct=g" width="120"></h2>
+<h1>Hey, nice to see you! <img src="https://i.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47xrjqewqiwwyxhyc08ybrkufcs6i32me7rlx6b3ye&rid=giphy.gif&ct=g" width="120"></h1>
 
 <p>I'm Jessica Lee, a fullstack developer and product lead, currently living in California, United States <img src="https://cdn-icons.flaticon.com/png/512/4628/premium/4628635.png?token=exp=1655149975~hmac=bc15cab11de53a8a38473c27c61ea508"  width="15" /> </p>
 
@@ -6,7 +6,7 @@
 </p>
 
 
-<h3>Things I code with</h3>
+<h3><img src="https://i.giphy.com./media/ZgqRN1hmfWPafarO5m/giphy.gif?cid=ecf05e47v7zo68g8wcot1jbosdbwu2rowkx1412sgq6l2zrs&rid=giphy.gif&ct=g" width="30" />Things I code with</h3>
 <p>
    <img  alt='HTML5' src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" />
    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3" />
@@ -23,7 +23,7 @@
    
 </p>
 
-<h3>Open source projects</h3>
+<h3><img src="https://i.giphy.com./media/l0MYtjhrNDLnlKf28/giphy.gif?cid=ecf05e47erv84z4e7s9jk9zced1n6n5txhzmnzdkbk3gm2z8&rid=giphy.gif&ct=g". width="30"/> Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
